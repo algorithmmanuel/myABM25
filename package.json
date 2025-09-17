@@ -31,7 +31,7 @@
     "jquery": "^3.7.1",
     "lodash-es": "^4.17.21",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.45",
+    "moment-timezone": "^0.6.0",
     "ng-multiselect-dropdown": "^0.3.8",
     "ng-pick-datetime": "^7.0.0",
     "ng-toggle-button": "^1.5.3",
